@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **new things about development**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ambre-giraud-lanza/https://www.linkedin.com/in/ambre-giraud-lanza/](https://www.linkedin.com/in/ambre-giraud-lanza/https://www.linkedin.com/in/ambre-giraud-lanza/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
