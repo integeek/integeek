@@ -1,4 +1,4 @@
-![Header](./imageGit.png)
+
 
 <h1 align="center">Hi 👋, I'm Ambre</h1>
 <h3 align="center">A passionate student developer from France</h3>
